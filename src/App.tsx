@@ -34,7 +34,8 @@ const App: React.FC = () => {
       id: "alcudia",
       name: "CLÍNICA ALCUDIA EN RIO BUENO",
       address: "Patricio Lynch 1961",
-      bookingUrl: "#",
+      bookingUrl:
+        "https://api.whatsapp.com/send?phone=56981653492&text=Hola,%20quiero%20pedir%20una%20hora%20con%20la%20Dra.%20Norambuena.",
       mapUrl: "https://maps.app.goo.gl/6TLSTu41tCdcRgNSA",
     },
   ];
